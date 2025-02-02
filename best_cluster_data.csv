@@ -1,0 +1,589 @@
+popular_rank,startYear,endYear,type,orign_country,language,rating,numVotes,genres,isAdult
+8,2021.0,2022.0,tvSeries,United States,English,8.2,9622.0,"Action,Adventure,Drama",0
+17,2021.0,2022.0,tvSpecial,United States,English,8.9,13128.0,"Comedy,Drama,Music",0
+35,2021.0,2021.0,tvMiniSeries,United States,English,7.5,7747.0,"Biography,Drama",0
+40,2021.0,2022.0,tvSeries,Mexico,Spanish,6.5,9203.0,"Crime,Drama,Mystery",0
+62,2017.0,2019.0,tvSeries,United States,English,7.9,14540.0,"Comedy,Drama",0
+66,2016.0,2021.0,tvSeries,Canada,English,8.2,10758.0,Comedy,0
+75,2007.0,2009.0,tvSeries,Canada,English,8.4,10758.0,"Drama,Family",0
+119,2020.0,2021.0,tvSeries,United Kingdom,English,7.5,5679.0,"Comedy,Drama,Romance",0
+140,2015.0,2017.0,tvSeries,France,Urdu,7.7,7609.0,"Action,Adventure,Animation",0
+142,2021.0,2022.0,movie,Belgium,Flemish,7.1,6748.0,"Action,Crime,Drama",0
+149,2015.0,2017.0,tvSeries,Canada,English,7.3,7924.0,"Comedy,Drama,Fantasy",0
+191,2021.0,2022.0,tvSeries,South Korea,Korean,8.6,5751.0,"Comedy,Crime,Romance",0
+204,2008.0,2010.0,tvSeries,Canada,English,8.1,11159.0,"Crime,Drama,Mystery",0
+220,2020.0,2022.0,tvSeries,United States,English,7.8,5509.0,"Animation,Comedy,Drama",0
+224,2019.0,2021.0,tvSeries,Belgium,Dutch,7.8,12165.0,"Crime,Drama,Thriller",0
+235,2021.0,2021.0,tvSeries,United Kingdom,English,5.9,11889.0,"Crime,Drama,Fantasy",0
+250,2014.0,2016.0,tvSeries,United States,English,8.1,11072.0,"Drama,Family,Romance",0
+263,2017.0,2021.0,tvSeries,Japan,Japanese,8.3,12037.0,"Action,Adventure,Animation",0
+272,2019.0,2021.0,tvSeries,United States,English,7.7,12939.0,"Crime,Drama,Horror",0
+350,2014.0,2020.0,tvSeries,Japan,English,8.8,13914.0,"Animation,Comedy,Drama",0
+368,2020.0,2022.0,tvSeries,United States,English,7.4,9501.0,"Drama,Romance",0
+372,2004.0,2006.0,tvSeries,United Kingdom,English,8.3,13281.0,"Comedy,Drama,Romance",0
+375,2020.0,2022.0,tvSeries,United States,English,4.5,8365.0,"Game-Show,Reality-TV,Romance",0
+402,2012.0,2018.0,tvSeries,Japan,Japanese,7.6,7702.0,"Action,Animation,Comedy",0
+417,2017.0,2019.0,movie,United States,English,6.6,10055.0,"Crime,Mystery,Thriller",0
+420,2019.0,2019.0,tvMiniSeries,United Kingdom,English,5.1,7889.0,"Drama,Sci-Fi",0
+423,2020.0,2022.0,movie,United States,English,4.7,11673.0,"Action,Comedy,Drama",0
+433,2017.0,2019.0,tvSeries,Canada,English,7.6,11069.0,Comedy,0
+475,2020.0,2022.0,tvSeries,United States,English,8.5,7062.0,"Comedy,Family,Fantasy",0
+495,2011.0,2013.0,tvSeries,United Kingdom,English,8.4,14375.0,"Crime,Drama,Thriller",0
+498,2015.0,2018.0,tvSeries,France,Latin,7.9,14541.0,"Biography,Drama,History",0
+504,2021.0,2022.0,movie,United States,English,6.1,7636.0,"Action,Adventure,Comedy",0
+506,2016.0,2018.0,movie,Canada,English,5.5,10893.0,"Drama,Romance",0
+509,2021.0,2022.0,tvSeries,United States,English,8.1,11131.0,"Action,Adventure,Animation",0
+513,2018.0,2020.0,tvSeries,United States,English,7.9,11184.0,"Action,Adventure,Animation",0
+529,2020.0,2022.0,tvSeries,South Korea,Korean,7.4,11475.0,"Drama,Fantasy,Horror",0
+531,2021.0,2022.0,tvSeries,Sweden,Swedish,7.6,5907.0,"Action,Crime,Drama",0
+532,2020.0,2020.0,tvSeries,South Korea,Korean,8.8,12669.0,"Comedy,Drama,Romance",0
+534,2021.0,2022.0,tvSeries,United Kingdom,English,6.6,10250.0,"Crime,Drama,Sci-Fi",0
+537,2020.0,2022.0,movie,United Kingdom,English,6.3,6320.0,Drama,0
+545,2016.0,2018.0,tvSeries,United States,English,6.9,12554.0,Comedy,0
+546,2021.0,2022.0,tvSeries,Germany,German,6.8,9472.0,"Action,Adventure,Drama",0
+551,2006.0,2010.0,tvSeries,Australia,English,7.2,13085.0,"Drama,Family,Fantasy",0
+569,2013.0,2015.0,tvSpecial,United States,English,8.5,8565.0,"Comedy,Music",0
+576,2016.0,2018.0,tvSpecial,United States,English,8.5,10339.0,"Comedy,Music",0
+582,2018.0,2020.0,tvSeries,United States,English,8.0,11616.0,Comedy,0
+602,2020.0,2022.0,tvSeries,United States,English,7.6,13337.0,"Action,Animation,Fantasy",0
+603,2016.0,2018.0,tvSeries,Canada,English,6.7,11709.0,"Crime,Drama,Horror",0
+612,2021.0,2022.0,tvSeries,Turkey,Turkish,7.5,5969.0,"Crime,Drama,Thriller",0
+619,2018.0,2019.0,tvSeries,United States,English,7.6,14541.0,"Action,Adventure,Comedy",0
+623,2010.0,2018.0,tvSeries,Australia,English,8.5,6723.0,"Comedy,Drama",0
+625,2018.0,2018.0,tvSeries,Australia,English,7.0,6975.0,"Crime,Drama,Fantasy",0
+626,2016.0,2018.0,tvSeries,Canada,English,7.0,6313.0,"Biography,Documentary,Drama",0
+628,2020.0,2022.0,movie,United States,English,4.5,8425.0,"Action,Crime,Drama",0
+634,2017.0,2019.0,movie,United States,English,6.3,14934.0,"Drama,Romance",0
+636,2019.0,2021.0,tvSeries,Japan,Japanese,8.2,12265.0,"Action,Adventure,Animation",0
+643,2017.0,2020.0,tvSeries,United States,English,8.2,13822.0,Comedy,0
+654,2020.0,2022.0,movie,United States,English,6.0,13393.0,"Adventure,Animation,Comedy",0
+663,2020.0,2022.0,movie,Australia,English,6.8,6338.0,Drama,0
+673,2019.0,2019.0,tvSeries,United Kingdom,English,7.9,11427.0,"Crime,Drama,Mystery",0
+677,1994.0,2000.0,tvSeries,United States,English,6.8,9559.0,"Drama,Family",0
+678,2016.0,2020.0,tvSeries,Finland,Finnish,7.6,8190.0,"Crime,Drama,Mystery",0
+691,2019.0,2021.0,tvSeries,Japan,Japanese,8.4,5933.0,"Animation,Comedy,Romance",0
+700,2012.0,2014.0,tvSeries,United Kingdom,English,7.2,8255.0,Comedy,0
+706,2018.0,2018.0,tvMiniSeries,Japan,Japanese,8.5,13953.0,"Animation,Drama,Fantasy",0
+711,2019.0,2019.0,tvSeries,United States,English,6.5,10347.0,"Action,Crime,Drama",0
+713,2020.0,2020.0,tvSeries,Spain,Spanish,6.8,6881.0,"Crime,Drama,Mystery",0
+716,2019.0,2019.0,tvMiniSeries,United States,English,6.3,13409.0,"Drama,Thriller",0
+720,2012.0,2015.0,tvSeries,Australia,English,8.3,14198.0,"Crime,Drama,Mystery",0
+733,2021.0,2022.0,tvSeries,Spain,Spanish,6.5,6071.0,"Action,Adventure,Crime",0
+736,2020.0,2022.0,tvSeries,United States,English,5.9,7773.0,"Drama,Mystery,Thriller",0
+738,2020.0,2022.0,movie,Spain,Spanish,6.1,10925.0,"Drama,Horror,Mystery",0
+741,2017.0,2019.0,tvSeries,France,French,7.5,8487.0,"Crime,Drama,Horror",0
+743,2019.0,2021.0,movie,Colombia,English,5.4,6784.0,"Crime,Drama,Thriller",0
+758,2016.0,2016.0,tvSeries,South Korea,Korean,8.3,10544.0,"Action,Comedy,Drama",0
+768,2017.0,2020.0,tvSeries,Italy,Italian,7.9,12639.0,"Action,Crime",0
+775,2020.0,2022.0,movie,United States,English,4.3,13387.0,"Crime,Drama,Thriller",0
+781,2020.0,2020.0,tvSeries,United States,English,7.6,11398.0,"Drama,Sport",0
+782,2018.0,2020.0,tvSeries,Italy,Italian,6.8,9048.0,Drama,0
+783,2020.0,2020.0,tvMiniSeries,Australia,English,7.5,6983.0,Drama,0
+789,2018.0,2020.0,tvSeries,Japan,Japanese,8.1,5511.0,"Action,Adventure,Animation",0
+792,2002.0,2019.0,tvSeries,United Kingdom,English,8.8,6441.0,Comedy,0
+793,2016.0,2019.0,tvSeries,Australia,English,7.4,6810.0,"Mystery,Thriller",0
+801,2019.0,2021.0,movie,United Kingdom,English,4.8,7467.0,"Action,Crime,Drama",0
+804,2016.0,2018.0,movie,United States,English,5.7,9912.0,"Crime,Drama",0
+805,2017.0,2020.0,tvSeries,Spain,Spanish,7.6,12647.0,Drama,0
+807,2018.0,2018.0,tvMiniSeries,United Kingdom,English,6.4,5591.0,"Drama,Fantasy,Mystery",0
+812,2016.0,2017.0,tvSeries,South Korea,Korean,8.6,13169.0,"Comedy,Drama,Fantasy",0
+821,2016.0,2018.0,tvSeries,United States,English,8.5,14039.0,"Action,Adventure,Animation",0
+829,2018.0,2018.0,tvSeries,Japan,Japanese,7.4,6053.0,"Action,Animation,Drama",0
+831,2019.0,2019.0,tvSeries,Russia,Russian,7.3,10075.0,"Drama,Sci-Fi,Thriller",0
+833,2017.0,2019.0,tvSeries,Canada,English,7.5,7904.0,"Crime,Drama",0
+835,2020.0,2022.0,movie,United States,English,5.6,8710.0,"Action,Adventure,Comedy",0
+838,2017.0,2017.0,tvSeries,United States,English,6.9,14716.0,"Drama,Thriller",0
+839,2020.0,2020.0,tvSeries,South Korea,Korean,8.2,7327.0,"Drama,Romance",0
+842,2020.0,2022.0,short,United States,English,6.9,11452.0,"Drama,Sci-Fi,Short",0
+846,2019.0,2019.0,tvSeries,United States,English,7.4,6688.0,Drama,0
+850,2018.0,2018.0,tvMiniSeries,Japan,Japanese,7.6,14354.0,"Action,Animation,Fantasy",0
+851,2018.0,2020.0,tvSeries,United States,English,7.2,14057.0,"Comedy,Drama",0
+860,2019.0,2019.0,tvSeries,Spain,Spanish,6.4,5599.0,"Crime,Drama,Thriller",0
+861,2017.0,2019.0,tvSeries,Japan,Japanese,7.2,5776.0,"Animation,Drama,Mystery",0
+871,2020.0,2022.0,movie,United States,English,6.8,12731.0,Drama,0
+872,2019.0,2021.0,tvSeries,United States,English,7.2,9334.0,"Drama,Sci-Fi",0
+873,2006.0,2008.0,tvSeries,United States,English,7.6,5652.0,"Game-Show,Reality-TV",0
+875,2020.0,2022.0,movie,United States,English,3.7,10109.0,"Action,Crime,Drama",0
+878,2020.0,2020.0,tvSeries,South Korea,Korean,8.3,7467.0,"Fantasy,Mystery,Romance",0
+883,2019.0,2019.0,tvSeries,United States,English,6.5,7637.0,"Drama,Fantasy,Horror",0
+886,2020.0,2022.0,tvSeries,Sweden,Turkish,8.2,14698.0,"Crime,Drama,Thriller",0
+887,2019.0,2021.0,movie,Mexico,English,5.8,9753.0,"Action,Crime,Drama",0
+888,2016.0,2018.0,tvSeries,United States,English,7.2,10554.0,"Comedy,Drama,Romance",0
+890,2016.0,2016.0,tvMiniSeries,United Kingdom,English,7.0,7125.0,"Drama,Mystery,Thriller",0
+896,2019.0,2020.0,tvSeries,Iceland,Icelandic,7.1,9647.0,"Crime,Drama,Mystery",0
+899,2020.0,2022.0,tvSeries,United States,English,8.3,13295.0,"Adventure,Animation,Comedy",0
+904,2020.0,2022.0,movie,United States,English,5.6,14835.0,"Comedy,Romance",0
+906,2018.0,2020.0,tvSeries,United Kingdom,English,3.8,12648.0,"Action,Adventure,Fantasy",0
+913,2019.0,2021.0,movie,France,English,5.7,12733.0,"Action,Crime,Drama",0
+914,2018.0,2019.0,tvSeries,Russia,Mandarin,7.4,7250.0,"Drama,Sci-Fi",0
+921,2017.0,2019.0,tvSeries,South Korea,Korean,8.6,6084.0,"Crime,Drama,Mystery",0
+925,2018.0,2020.0,tvSeries,Japan,Japanese,8.2,5702.0,"Animation,Drama,Fantasy",0
+929,2019.0,2020.0,tvSeries,Spain,Spanish,6.8,6313.0,"Crime,Drama,Mystery",0
+933,2020.0,2020.0,tvSeries,United States,English,6.2,9125.0,"Adventure,Drama,Fantasy",0
+938,2020.0,2022.0,movie,Canada,English,6.4,14757.0,"Adventure,Animation,Comedy",0
+949,2020.0,2020.0,tvSeries,United States,English,7.7,8866.0,"Comedy,Crime,Drama",0
+957,2020.0,2022.0,movie,Spain,Spanish,5.6,9900.0,"Action,Adventure,Crime",0
+959,2018.0,2020.0,tvSeries,Mexico,Spanish,7.6,6972.0,"Comedy,Drama",0
+967,2020.0,2022.0,movie,Poland,Polish,4.8,7834.0,"Horror,Thriller",0
+969,2018.0,2020.0,movie,United Kingdom,English,5.8,10291.0,"Action,Drama,Thriller",0
+972,2021.0,2022.0,movie,Sweden,Swedish,5.5,11027.0,"Drama,Horror,Thriller",0
+976,2020.0,2022.0,tvSeries,United Kingdom,English,5.9,6485.0,"Action,Adventure,Family",0
+979,2020.0,2022.0,tvSeries,United Kingdom,English,6.8,7086.0,"Crime,Drama,Mystery",0
+981,2021.0,2022.0,movie,India,Hindi,7.0,6925.0,"Comedy,Drama",0
+982,2019.0,2021.0,tvSeries,Japan,Japanese,7.8,6711.0,"Animation,Crime,Drama",0
+989,2019.0,2019.0,tvSeries,United States,English,6.1,12445.0,"Drama,Horror,Sci-Fi",0
+991,2018.0,2020.0,movie,United States,English,6.2,6762.0,"Comedy,Drama",0
+992,2019.0,2020.0,tvSeries,United States,English,7.1,7748.0,"Comedy,Crime,Drama",0
+994,2020.0,2022.0,movie,France,French,6.1,7198.0,"Action,Crime,Drama",0
+996,2019.0,2021.0,tvSeries,United States,English,7.7,6221.0,Comedy,0
+997,2018.0,2018.0,tvSeries,South Korea,Korean,8.1,7096.0,"Comedy,Mystery,Romance",0
+999,2018.0,2020.0,tvSeries,Japan,Japanese,8.1,7506.0,"Action,Adventure,Animation",0
+"1,004",2019.0,2021.0,movie,Canada,English,5.2,8243.0,"Horror,Music,Thriller",0
+"1,007",2020.0,2022.0,movie,United States,English,6.3,9062.0,"Comedy,Drama,Family",0
+"1,015",2020.0,2022.0,tvSeries,Austria,German,6.5,10373.0,"Crime,History,Thriller",0
+"1,023",2018.0,2020.0,tvSeries,Finland,Finnish,7.2,7027.0,"Crime,Drama,Mystery",0
+"1,026",2020.0,2022.0,tvMiniSeries,United Kingdom,English,7.6,12475.0,"Drama,History,Sport",0
+"1,034",2013.0,2015.0,tvSeries,France,English,7.3,12434.0,"Action,Crime,Drama",0
+"1,037",2018.0,2020.0,movie,Russia,Russian,6.7,10172.0,"Action,War",0
+"1,040",2019.0,2021.0,tvSeries,United States,English,7.1,5802.0,Comedy,0
+"1,042",2016.0,2020.0,tvSeries,United States,English,7.0,9562.0,"Comedy,Drama,Romance",0
+"1,046",2016.0,2018.0,tvSeries,Belgium,French,7.6,5771.0,"Crime,Drama,Thriller",0
+"1,051",2019.0,2021.0,movie,United States,English,7.2,12140.0,"Biography,Drama,History",0
+"1,053",2020.0,2022.0,movie,United States,English,6.1,10490.0,"Comedy,Music",0
+"1,054",2012.0,2016.0,tvSeries,United States,English,6.6,4987.0,"Action,Comedy,Drama",0
+"1,056",2012.0,2014.0,tvSeries,United States,English,8.5,6196.0,"Game-Show,Reality-TV",0
+"1,057",2020.0,2022.0,movie,Italy,Italian,6.8,12234.0,Drama,0
+"1,060",2010.0,2010.0,tvSeries,Japan,Japanese,7.2,11424.0,"Action,Animation,Drama",0
+"1,064",2018.0,2018.0,tvMiniSeries,United States,English,7.7,13817.0,"Crime,Drama",0
+"1,067",2017.0,2019.0,movie,Bulgaria,English,5.4,9073.0,"Crime,Drama,Thriller",0
+"1,071",2011.0,2012.0,tvSeries,Japan,English,8.3,10831.0,"Action,Animation,Drama",0
+"1,072",2017.0,2020.0,tvSeries,United States,English,6.9,5164.0,Drama,0
+"1,075",2020.0,2022.0,tvSeries,Turkey,Turkish,7.5,9832.0,"Comedy,Drama,Romance",0
+"1,078",2020.0,2022.0,movie,Spain,Spanish,6.4,14823.0,"Adventure,Drama,Thriller",0
+"1,083",2017.0,2019.0,movie,Canada,English,6.8,13656.0,Drama,0
+"1,085",2016.0,2017.0,tvSeries,Japan,Japanese,7.9,7141.0,"Adventure,Animation,Comedy",0
+"1,092",2017.0,2019.0,tvSeries,United Kingdom,English,7.4,9765.0,Comedy,0
+"1,097",2018.0,2020.0,movie,Canada,English,5.3,11430.0,"Action,Crime",0
+"1,101",2019.0,2019.0,tvSeries,United States,English,7.4,5309.0,"Animation,Comedy",0
+"1,105",2017.0,2019.0,movie,United Kingdom,English,6.5,13639.0,Drama,0
+"1,107",2020.0,2020.0,tvSeries,United States,English,7.5,6905.0,"Adventure,Comedy,Drama",0
+"1,109",2012.0,2020.0,tvSeries,Denmark,Danish,8.1,7908.0,"Comedy,Drama",0
+"1,110",1995.0,1998.0,tvSeries,Canada,English,7.7,12187.0,"Family,Fantasy,Horror",0
+"1,123",2017.0,2019.0,movie,United Kingdom,English,6.5,6918.0,"Action,Crime,Drama",0
+"1,127",2018.0,2020.0,tvSeries,Germany,German,7.6,11082.0,"Action,Crime,Drama",0
+"1,132",2015.0,2017.0,tvSeries,United Kingdom,English,7.3,10364.0,"Crime,Drama,Fantasy",0
+"1,143",2019.0,2021.0,movie,Thailand,English,5.6,10086.0,"Action,Thriller",0
+"1,148",2017.0,2017.0,tvMiniSeries,France,French,7.2,8648.0,"Crime,Drama",0
+"1,149",2017.0,2019.0,movie,Canada,English,6.3,12403.0,"Crime,Drama,Mystery",0
+"1,150",2017.0,2018.0,tvSeries,United States,English,7.7,7272.0,"Crime,Drama,Western",0
+"1,153",2020.0,2022.0,tvSeries,United States,English,7.5,12218.0,"Comedy,Drama,Romance",0
+"1,160",2018.0,2018.0,tvSeries,Germany,German,7.1,7562.0,"Drama,Thriller",0
+"1,162",2020.0,2022.0,movie,United States,English,5.9,13018.0,"Drama,Fantasy,Thriller",0
+"1,165",2019.0,2021.0,movie,United States,English,5.6,11768.0,"Comedy,Romance",0
+"1,166",2014.0,2019.0,tvSeries,United States,English,7.9,12542.0,"Adventure,Animation,Comedy",0
+"1,168",2011.0,2014.0,tvSeries,France,English,7.8,6177.0,"Biography,Drama,History",0
+"1,170",2020.0,2022.0,tvSeries,Germany,German,6.8,6223.0,"Drama,Sci-Fi,Thriller",0
+"1,172",2014.0,2016.0,tvSeries,Japan,Japanese,7.9,12035.0,"Action,Adventure,Animation",0
+"1,173",2020.0,2022.0,movie,United States,English,5.6,8181.0,"Comedy,Horror",0
+"1,174",2018.0,2020.0,movie,United States,English,6.8,14431.0,"Biography,Comedy",0
+"1,182",2018.0,2020.0,movie,Israel,English,6.6,12686.0,"Drama,Thriller",0
+"1,188",2018.0,2020.0,movie,United States,-,7.0,10458.0,"Adventure,Comedy,Drama",0
+"1,190",2016.0,2018.0,tvSeries,United States,-,7.7,6913.0,"Crime,Drama,Mystery",0
+"1,196",2020.0,2022.0,movie,Norway,Norwegian,5.1,7774.0,"Drama,Horror,Thriller",0
+"1,199",2021.0,2022.0,movie,Turkey,Turkish,6.7,9677.0,Drama,0
+"1,201",2019.0,2021.0,movie,France,French,6.9,14701.0,"Action,Adventure,Sci-Fi",0
+"1,202",2006.0,2006.0,tvSeries,Japan,Japanese,8.0,12769.0,"Action,Adventure,Animation",0
+"1,203",2018.0,2018.0,tvSeries,United States,English,5.9,12013.0,"Drama,Horror,Mystery",0
+"1,205",2019.0,2021.0,movie,United Kingdom,English,6.6,12485.0,"Action,Crime",0
+"1,208",1984.0,1986.0,tvSeries,United States,English,8.2,6339.0,Game-Show,0
+"1,211",2013.0,2015.0,movie,United Kingdom,Latin,5.8,11291.0,"Drama,Romance",0
+"1,223",2017.0,2018.0,tvSeries,United Kingdom,English,6.8,6324.0,"Comedy,Crime",0
+"1,224",2013.0,2014.0,tvSeries,Japan,Japanese,7.9,11619.0,"Action,Animation,Comedy",0
+"1,227",2020.0,2022.0,tvSeries,Japan,Japanese,8.2,5704.0,"Action,Animation,Comedy",0
+"1,228",2020.0,2022.0,tvSeries,Mexico,Spanish,6.9,5240.0,"Drama,Thriller",0
+"1,229",2017.0,2018.0,tvSeries,France,French,7.0,6193.0,"Drama,Mystery,Thriller",0
+"1,231",1967.0,1969.0,movie,United States,English,6.0,7647.0,"Drama,Music,Romance",0
+"1,232",2018.0,2018.0,tvSeries,United Kingdom,English,6.3,5345.0,"Drama,Horror,Mystery",0
+"1,233",2019.0,2019.0,tvSeries,France,French,7.5,12495.0,"Drama,Horror,Mystery",0
+"1,243",2017.0,2019.0,movie,United States,English,4.7,11927.0,"Crime,Drama,Romance",0
+"1,246",2017.0,2018.0,tvSeries,United States,English,7.1,5748.0,Comedy,0
+"1,248",2016.0,2018.0,tvSeries,United States,English,8.1,7890.0,"Action,Adventure,Animation",0
+"1,250",2018.0,2020.0,movie,United States,English,6.7,13595.0,"Drama,Thriller",0
+"1,251",2018.0,2020.0,tvSeries,United Kingdom,English,8.6,7696.0,"Adventure,Animation,Comedy",0
+"1,255",2012.0,2014.0,tvSeries,United Kingdom,English,7.9,11127.0,"Crime,Drama,Mystery",0
+"1,257",2018.0,2020.0,tvSeries,Japan,Japanese,7.5,5409.0,"Action,Adventure,Animation",0
+"1,258",2020.0,2022.0,movie,United States,English,5.2,9090.0,"Comedy,Romance",0
+"1,264",2020.0,2022.0,tvSeries,Sweden,Swedish,7.4,6492.0,"Comedy,Drama,Romance",0
+"1,268",2017.0,2018.0,tvSeries,United States,Mandarin,6.8,9172.0,Comedy,0
+"1,272",1992.0,2014.0,tvSeries,United Kingdom,English,7.7,7448.0,Comedy,0
+"1,280",2019.0,2021.0,movie,United Kingdom,English,6.1,9897.0,Comedy,0
+"1,293",2018.0,2020.0,movie,United Kingdom,English,4.8,11293.0,"Horror,Mystery,Thriller",0
+"1,294",2019.0,2021.0,movie,France,English,5.9,8851.0,"Crime,Drama,Thriller",0
+"1,297",2018.0,2020.0,movie,Canada,English,5.7,7225.0,"Horror,Thriller",0
+"1,298",2016.0,2016.0,tvMiniSeries,United Kingdom,English,6.7,7194.0,"Crime,Drama,Mystery",0
+"1,301",2019.0,2021.0,movie,Germany,German,7.8,11023.0,Drama,0
+"1,306",2021.0,2021.0,tvMiniSeries,United States,English,8.1,5573.0,"Biography,Comedy,Documentary",0
+"1,308",2000.0,2004.0,tvSeries,Japan,Japanese,7.9,14930.0,"Action,Adventure,Animation",0
+"1,310",2021.0,2022.0,movie,United States,English,7.0,6284.0,"Crime,Documentary,Drama",0
+"1,313",2020.0,2022.0,tvSeries,United States,English,7.3,7920.0,"Crime,Documentary,Mystery",0
+"1,318",2013.0,2014.0,tvSeries,South Korea,Korean,8.2,9708.0,"Comedy,Drama,Fantasy",0
+"1,322",2021.0,2021.0,tvSeries,United States,English,5.9,14500.0,"Crime,Documentary,Mystery",0
+"1,324",2014.0,2015.0,tvSeries,Japan,Japanese,8.0,6531.0,"Action,Animation,Fantasy",0
+"1,327",2017.0,2017.0,tvMiniSeries,United States,English,6.9,7601.0,Comedy,0
+"1,330",2018.0,2020.0,movie,United States,English,4.2,8409.0,"Adventure,Drama,Fantasy",0
+"1,332",2015.0,2017.0,movie,United States,English,5.1,12463.0,"Drama,Thriller",0
+"1,335",2012.0,2012.0,tvSeries,Japan,Japanese,7.6,12030.0,"Animation,Drama,Horror",0
+"1,340",2017.0,2019.0,movie,United States,English,6.9,12077.0,"Drama,Romance",0
+"1,344",2016.0,2017.0,tvSeries,South Korea,Korean,8.1,6197.0,"Comedy,Fantasy,Romance",0
+"1,346",2019.0,2021.0,movie,Italy,Italian,6.2,5433.0,"Crime,Drama",0
+"1,351",2019.0,2021.0,movie,United Kingdom,English,5.9,13068.0,"Crime,Drama,Mystery",0
+"1,352",2008.0,2009.0,tvSeries,Japan,Japanese,8.0,11501.0,"Animation,Comedy,Drama",0
+"1,354",2013.0,2013.0,tvSeries,South Korea,Korean,7.5,8193.0,"Comedy,Drama,Romance",0
+"1,368",2018.0,2020.0,movie,United States,English,5.2,10420.0,Comedy,0
+"1,373",2018.0,2020.0,movie,United Kingdom,English,5.8,6386.0,"Action,Comedy",0
+"1,376",2016.0,2018.0,movie,United Kingdom,English,6.4,14755.0,"Action,Crime,Drama",0
+"1,384",2008.0,2009.0,tvSeries,United States,English,8.2,11081.0,"Action,Adventure,Animation",0
+"1,385",2017.0,2017.0,tvMiniSeries,France,French,7.4,11870.0,"Crime,Drama,Thriller",0
+"1,387",2017.0,2019.0,movie,Australia,English,6.3,14687.0,"Crime,Drama,Mystery",0
+"1,392",2016.0,2016.0,tvSeries,South Korea,Korean,8.1,7200.0,"Drama,Fantasy,Romance",0
+"1,397",1992.0,1995.0,tvSeries,-,-,8.4,11876.0,"Action,Adventure,Animation",0
+"1,401",2019.0,2021.0,tvSeries,India,Hindi,6.9,9194.0,"Action,Adventure,Drama",0
+"1,405",2020.0,2022.0,movie,India,Hindi,6.6,10108.0,"Drama,Horror,Mystery",0
+"1,407",2018.0,2020.0,tvSeries,United States,English,7.9,6887.0,"Biography,Crime",0
+"1,408",2018.0,2020.0,movie,United States,English,5.8,8123.0,Thriller,0
+"1,414",2019.0,2019.0,tvMiniSeries,United States,English,7.3,6758.0,"Documentary,Drama,History",0
+"1,420",2020.0,2022.0,movie,United States,English,6.1,8668.0,"Biography,Drama,History",0
+"1,421",2020.0,2022.0,movie,Japan,Japanese,6.7,6477.0,"Adventure,Animation,Family",0
+"1,423",2012.0,2012.0,tvMiniSeries,Canada,English,7.0,8177.0,"Drama,History,Romance",0
+"1,424",2015.0,2017.0,tvSeries,United Kingdom,English,7.7,8059.0,Comedy,0
+"1,425",2017.0,2017.0,tvSeries,Belgium,Dutch,8.0,8931.0,"Drama,Horror,Thriller",0
+"1,427",2012.0,2014.0,movie,Japan,German,7.6,11097.0,"Action,Adventure,Animation",0
+"1,428",2018.0,2018.0,tvMiniSeries,United Kingdom,English,7.2,5480.0,"Action,Adventure,Animation",0
+"1,432",2019.0,2021.0,movie,Poland,English,6.2,9142.0,"History,Sport,Thriller",0
+"1,434",2015.0,2019.0,tvSeries,United States,English,8.5,13888.0,Documentary,0
+"1,441",2016.0,2018.0,movie,Japan,Japanese,7.1,13216.0,"Action,Animation,Drama",0
+"1,444",2018.0,2020.0,movie,United States,English,6.1,7976.0,"Romance,Sci-Fi",0
+"1,449",2017.0,2019.0,movie,Argentina,Spanish,6.5,12566.0,Horror,0
+"1,452",2016.0,2018.0,movie,Canada,English,4.6,13486.0,"Drama,Horror,Mystery",0
+"1,458",2011.0,2012.0,tvSeries,United Kingdom,English,8.0,9635.0,Drama,0
+"1,459",2019.0,2021.0,movie,United States,English,6.1,12753.0,"Comedy,Drama,Romance",0
+"1,464",2007.0,2009.0,movie,France,French,6.7,10572.0,"Drama,Romance",0
+"1,465",2020.0,2020.0,tvMiniSeries,United States,English,7.3,9922.0,"Biography,Drama,History",0
+"1,470",2012.0,2013.0,tvSeries,United Kingdom,English,7.7,10743.0,Drama,0
+"1,474",2015.0,2016.0,tvSeries,Canada,English,6.0,8481.0,"Drama,Mystery,Sci-Fi",0
+"1,479",2012.0,2014.0,tvSeries,United States,English,8.1,11314.0,"Animation,Comedy,Family",0
+"1,484",2020.0,2022.0,movie,India,Hindi,6.5,8943.0,"Action,Crime,Drama",0
+"1,485",2015.0,2017.0,movie,Japan,Japanese,6.1,5855.0,"Action,Drama,Fantasy",0
+"1,498",2016.0,2018.0,movie,United States,English,5.6,8438.0,"Crime,Drama",0
+"1,507",2019.0,2021.0,movie,Taiwan,Mandarin,7.6,6153.0,"Crime,Drama",0
+"1,509",2015.0,2017.0,movie,United States,English,5.6,11914.0,"Drama,Romance",0
+"1,517",2018.0,2018.0,tvSeries,Japan,Japanese,8.4,6215.0,"Animation,Drama,Mystery",0
+"1,521",2013.0,2015.0,movie,Japan,Japanese,7.9,8791.0,"Action,Adventure,Animation",0
+"1,523",2020.0,2022.0,movie,United States,English,5.8,6793.0,"Comedy,Drama,Romance",0
+"1,534",2010.0,2014.0,tvSeries,Ireland,English,8.5,6273.0,"Crime,Drama",0
+"1,541",2020.0,2022.0,movie,Canada,French,5.9,7620.0,"Action,Thriller",0
+"1,547",2018.0,2020.0,movie,Netherlands,French,7.1,12889.0,Drama,0
+"1,548",2018.0,2020.0,tvSeries,United States,English,8.1,8205.0,"Crime,Documentary",0
+"1,549",2018.0,2020.0,movie,Spain,Spanish,6.7,9046.0,"Biography,Drama,History",0
+"1,554",2017.0,2019.0,movie,Canada,English,6.2,8999.0,"Action,Drama,Thriller",0
+"1,556",2010.0,2011.0,tvSeries,United States,English,7.5,13947.0,Drama,0
+"1,558",2020.0,2022.0,movie,United States,English,5.4,8108.0,"Comedy,Drama,Family",0
+"1,565",2019.0,2019.0,tvMiniSeries,United Kingdom,English,8.7,6564.0,"Documentary,History,War",0
+"1,566",2011.0,2013.0,tvSeries,United Kingdom,English,7.5,14746.0,Comedy,0
+"1,568",2016.0,2017.0,tvSeries,United States,English,6.0,6871.0,"Comedy,Drama,Family",0
+"1,572",2020.0,2022.0,movie,France,French,6.2,7952.0,"Action,Crime,Thriller",0
+"1,573",2018.0,2020.0,movie,France,English,6.8,6577.0,Drama,0
+"1,574",2011.0,2013.0,video,United States,English,5.3,9653.0,"Action,Crime,Thriller",0
+"1,583",2018.0,2020.0,movie,United States,English,5.1,11779.0,"Drama,Fantasy,Horror",0
+"1,586",2019.0,2021.0,movie,United States,English,4.6,7837.0,"Drama,Horror,Mystery",0
+"1,591",2016.0,2018.0,movie,United Kingdom,English,5.8,7280.0,"Crime,Horror,Thriller",0
+"1,600",1999.0,2000.0,tvSeries,Japan,Japanese,8.5,7385.0,"Animation,Comedy,Drama",0
+"1,606",2020.0,2022.0,movie,United States,English,7.7,6150.0,Documentary,0
+"1,609",2017.0,2019.0,movie,United States,English,5.8,7160.0,"Crime,Drama,Thriller",0
+"1,610",2018.0,2020.0,movie,United States,English,6.4,8558.0,"Comedy,Drama,Romance",0
+"1,611",2019.0,2021.0,movie,United Kingdom,English,7.6,11867.0,"Documentary,Drama,Mystery",0
+"1,617",2018.0,2020.0,tvSeries,United States,English,8.1,7227.0,Documentary,0
+"1,620",2018.0,2020.0,movie,United States,English,5.8,8802.0,"Fantasy,Horror,Sci-Fi",0
+"1,628",2016.0,2018.0,movie,United States,English,6.1,7438.0,"Comedy,Family",0
+"1,632",2019.0,2021.0,movie,United States,English,7.2,12030.0,"Comedy,Drama",0
+"1,641",2020.0,2022.0,movie,India,Telugu,7.3,9479.0,"Action,Comedy,Drama",0
+"1,646",2018.0,2020.0,movie,Japan,Japanese,7.0,13278.0,"Adventure,Animation,Drama",0
+"1,655",2016.0,2018.0,movie,United States,English,6.1,8064.0,"Animation,Comedy,Family",0
+"1,658",2020.0,2022.0,movie,Spain,Spanish,6.2,5269.0,"Crime,Thriller",0
+"1,666",2016.0,2018.0,movie,United States,English,6.8,10285.0,"Comedy,Drama",0
+"1,670",2020.0,2022.0,movie,United States,English,5.1,12250.0,"Action,Comedy,Crime",0
+"1,671",2020.0,2022.0,movie,Germany,German,6.4,6981.0,"Comedy,Romance",0
+"1,674",2016.0,2017.0,tvSeries,South Korea,Korean,8.4,5620.0,"Comedy,Romance",0
+"1,677",2017.0,2018.0,tvSeries,Turkey,Turkish,7.8,9598.0,"Drama,Romance",0
+"1,679",2006.0,2006.0,tvSeries,Japan,Japanese,8.0,12871.0,"Action,Adventure,Animation",0
+"1,688",2013.0,2018.0,tvSeries,United States,English,6.6,7467.0,"Adventure,Animation,Comedy",0
+"1,691",2016.0,2017.0,tvSeries,United States,English,7.5,12938.0,"Drama,Fantasy,Mystery",0
+"1,692",2019.0,2021.0,movie,Spain,Spanish,6.3,7631.0,"Crime,Thriller",0
+"1,693",2018.0,2020.0,movie,Norway,Norwegian,6.2,10313.0,"Action,Drama,Thriller",0
+"1,703",2016.0,2018.0,movie,South Korea,Korean,6.7,6301.0,"Action,Drama,Thriller",0
+"1,705",2019.0,2021.0,movie,Romania,English,4.9,8183.0,"Comedy,Romance",0
+"1,707",2017.0,2019.0,movie,Canada,French,5.9,8441.0,"Action,Adventure,Drama",0
+"1,708",2018.0,2018.0,tvMiniSeries,India,Hindi,7.1,12839.0,"Drama,Fantasy,Horror",0
+"1,711",2011.0,2011.0,tvMiniSeries,Japan,Japanese,8.3,7864.0,"Animation,Drama,Fantasy",0
+"1,721",2019.0,2021.0,movie,United States,English,5.8,6441.0,Drama,0
+"1,725",2020.0,2020.0,tvMiniSeries,United States,English,8.2,9021.0,"Crime,Documentary",0
+"1,729",2015.0,2018.0,tvSeries,Spain,Catalan,8.6,7426.0,"Comedy,Drama,Romance",0
+"1,730",2017.0,2019.0,movie,United States,English,6.4,12286.0,"Biography,Drama,History",0
+"1,732",2016.0,2018.0,movie,Spain,Spanish,6.4,8381.0,"Action,Adventure,Crime",0
+"1,733",2017.0,2019.0,movie,Spain,Spanish,5.9,6929.0,"Drama,Romance,Sci-Fi",0
+"1,735",2020.0,2020.0,tvMiniSeries,United Kingdom,English,7.1,7392.0,"Crime,Documentary",0
+"1,737",2012.0,2014.0,movie,United States,English,5.7,7618.0,Documentary,0
+"1,743",2011.0,2011.0,tvSeries,Japan,Japanese,7.2,9377.0,"Action,Animation,Drama",0
+"1,747",2019.0,2021.0,movie,United Kingdom,English,6.8,11771.0,"Adventure,Animation,Comedy",0
+"1,753",2017.0,2019.0,movie,United Kingdom,English,6.0,7746.0,"Adventure,Biography,Drama",0
+"1,768",2020.0,2022.0,movie,India,Hindi,6.9,12384.0,"Action,Comedy,Crime",0
+"1,772",2017.0,2019.0,movie,United States,English,5.1,7221.0,"Horror,Thriller",0
+"1,773",2012.0,2014.0,tvSeries,United States,English,8.0,9819.0,"Action,Adventure,Animation",0
+"1,774",1993.0,1995.0,movie,United States,English,6.5,9796.0,"Drama,History,Western",0
+"1,788",2020.0,2022.0,movie,Poland,Polish,7.1,12790.0,"Drama,Thriller",0
+"1,789",2016.0,2018.0,movie,United States,English,6.5,6160.0,"Biography,Drama,History",0
+"1,790",2019.0,2019.0,tvMiniSeries,United States,English,7.6,10948.0,"Crime,Documentary,History",0
+"1,794",1993.0,1995.0,tvMovie,Japan,Japanese,6.7,14375.0,"Animation,Drama,Romance",0
+"1,796",2016.0,2018.0,movie,Netherlands,Dutch,7.1,6847.0,"Biography,Drama,War",0
+"1,806",2019.0,2021.0,movie,France,Wolof,6.7,8391.0,"Drama,Mystery,Romance",0
+"1,812",2005.0,2007.0,movie,Norway,Norwegian,6.5,9343.0,"Horror,Mystery,Thriller",0
+"1,817",2016.0,2020.0,tvSeries,United States,English,8.4,6328.0,"Documentary,Sport",0
+"1,822",2017.0,2017.0,tvMiniSeries,United States,English,8.5,12378.0,"Biography,Crime,Documentary",0
+"1,831",2020.0,2022.0,movie,United States,English,8.3,5523.0,Documentary,0
+"1,832",2013.0,2015.0,movie,Japan,Japanese,6.4,11754.0,"Adventure,Animation,Sci-Fi",0
+"1,835",2019.0,2021.0,movie,Mexico,Spanish,7.3,6427.0,Drama,0
+"1,840",2020.0,2022.0,tvMiniSeries,United States,English,8.1,5504.0,Documentary,0
+"1,842",2015.0,2017.0,movie,Spain,Spanish,7.4,11197.0,"Drama,Romance",0
+"1,847",2019.0,2021.0,movie,India,Hindi,7.6,7672.0,"Drama,Romance",0
+"1,850",2018.0,2020.0,tvSeries,United States,English,8.8,7071.0,Documentary,0
+"1,851",2019.0,2021.0,movie,United States,English,5.2,9682.0,"Action,Adventure,Crime",0
+"1,857",2017.0,2019.0,movie,United States,English,5.9,9480.0,"Biography,Comedy,Drama",0
+"1,859",2018.0,2020.0,movie,Japan,Japanese,6.4,10712.0,"Action,Adventure,Fantasy",0
+"1,864",2020.0,2022.0,tvSeries,India,Hindi,5.4,8047.0,"Action,Horror,Thriller",0
+"1,866",2017.0,2019.0,movie,Spain,Basque,6.4,10243.0,"Fantasy,Horror",0
+"1,872",2019.0,2020.0,tvSeries,Norway,Norwegian,7.7,10935.0,"Comedy,Drama,Romance",0
+"1,873",2015.0,2015.0,tvSeries,United States,English,7.1,11527.0,"Drama,Fantasy,Horror",0
+"1,876",2018.0,2018.0,tvMiniSeries,Turkey,Turkish,8.2,6523.0,"Action,Thriller,War",0
+"1,886",2004.0,2004.0,tvSeries,Japan,Japanese,7.2,7173.0,"Action,Animation,Comedy",0
+"1,887",2017.0,2019.0,movie,United States,English,6.1,5835.0,"Biography,Drama,History",0
+"1,894",2012.0,2014.0,movie,Israel,Hebrew,7.5,7878.0,"Crime,Drama,Romance",0
+"1,899",2016.0,2018.0,movie,India,Hindi,7.3,12091.0,"Drama,Mystery,Thriller",0
+"1,905",2012.0,2014.0,tvSeries,United States,English,7.6,12810.0,"Action,Romance,Sci-Fi",0
+"1,912",2018.0,2020.0,movie,India,Hindi,6.4,9998.0,"Drama,Romance",0
+"1,923",2014.0,2017.0,tvSeries,United States,English,7.0,5371.0,"Action,Adventure,Animation",0
+"1,926",2016.0,2018.0,movie,United States,English,5.8,6702.0,"Biography,Drama",0
+"1,927",2018.0,2020.0,tvSpecial,United States,English,6.6,6370.0,Comedy,0
+"1,928",2020.0,2022.0,movie,India,English,6.8,6355.0,"Comedy,Drama",0
+"1,929",2018.0,2020.0,movie,France,French,6.8,13073.0,"Comedy,Drama",0
+"1,947",2016.0,2018.0,movie,United Kingdom,English,6.3,11684.0,"Comedy,Thriller",0
+"1,948",2018.0,2020.0,movie,Netherlands,Dutch,6.9,8385.0,"Biography,Drama,War",0
+"1,953",2018.0,2020.0,movie,Uruguay,Spanish,7.5,8943.0,"Biography,Crime,Drama",0
+"1,957",2007.0,2009.0,movie,United States,English,5.9,12071.0,"Drama,Horror,Thriller",0
+"1,959",2019.0,2021.0,movie,United States,English,7.6,5799.0,"Biography,Documentary,History",0
+"1,964",2018.0,2020.0,tvSeries,-,-,8.8,8239.0,Reality-TV,0
+"1,965",2016.0,2018.0,movie,Spain,Spanish,6.8,10987.0,"Action,Crime,Drama",0
+"1,970",1999.0,1999.0,tvMiniSeries,Japan,Japanese,8.6,13469.0,"Action,Adventure,Animation",0
+"1,971",2015.0,2017.0,movie,Netherlands,Dutch,7.0,9264.0,"Action,Adventure,Biography",0
+"1,972",2018.0,2020.0,movie,France,French,6.3,12987.0,Comedy,0
+"1,975",2019.0,2021.0,tvSeries,India,Hindi,4.8,8117.0,"Drama,Sci-Fi",0
+"1,976",2020.0,2022.0,movie,United States,English,5.8,9467.0,"Comedy,Family,Romance",0
+"1,979",2019.0,2021.0,movie,United States,English,6.2,7879.0,"Drama,Sport",0
+"1,981",2017.0,2019.0,movie,Japan,Japanese,7.4,6898.0,"Action,Adventure,Animation",0
+"1,987",2019.0,2021.0,movie,India,Hindi,7.3,12333.0,Comedy,0
+"1,996",2012.0,2014.0,movie,Japan,Japanese,7.8,9220.0,"Action,Adventure,Animation",0
+"2,004",2013.0,2015.0,movie,United States,English,5.3,14502.0,"Drama,Horror,Thriller",0
+"2,006",2011.0,2013.0,movie,United States,English,7.2,6325.0,Drama,0
+"2,009",2018.0,2018.0,tvMiniSeries,United States,-,7.3,5237.0,"Crime,Documentary",0
+"2,015",2017.0,2019.0,movie,United States,English,5.7,6784.0,"Biography,Drama,Sport",0
+"2,019",2016.0,2018.0,movie,United States,English,5.3,6726.0,"Drama,Music",0
+"2,037",2016.0,2018.0,movie,United States,English,5.8,6861.0,Comedy,0
+"2,040",2016.0,2018.0,movie,Spain,Spanish,7.5,5697.0,"Biography,Comedy,Drama",0
+"2,041",2016.0,2018.0,tvSeries,Japan,Japanese,7.6,5505.0,"Action,Adventure,Animation",0
+"2,043",2018.0,2018.0,tvSeries,New Zealand,English,7.5,6348.0,Documentary,0
+"2,048",2019.0,2021.0,movie,Spain,Spanish,6.6,6379.0,"Action,Drama,Thriller",0
+"2,055",2016.0,2018.0,movie,Canada,English,4.6,8730.0,"Action,Comedy,Thriller",0
+"2,064",2019.0,2019.0,tvMiniSeries,United States,English,7.4,7304.0,"Crime,Documentary",0
+"2,065",2016.0,2018.0,movie,United States,English,5.7,14951.0,"Comedy,Sport",0
+"2,072",2017.0,2019.0,movie,United States,English,6.2,8501.0,Comedy,0
+"2,077",2012.0,2014.0,movie,United Kingdom,English,5.6,8871.0,"Horror,Mystery",0
+"2,078",2019.0,2019.0,tvSeries,United Kingdom,English,7.1,6627.0,Comedy,0
+"2,080",2020.0,2022.0,movie,United States,English,6.8,6576.0,"Comedy,Documentary",0
+"2,105",2018.0,2020.0,movie,United States,English,6.4,8466.0,"Comedy,Drama,Romance",0
+"2,108",2019.0,2021.0,movie,Turkey,Turkish,6.0,13048.0,Comedy,0
+"2,124",2015.0,2017.0,movie,United States,English,5.4,6665.0,"Comedy,Romance",0
+"2,125",2020.0,2020.0,tvMiniSeries,United States,English,7.1,6147.0,"Crime,Documentary",0
+"2,138",2017.0,2019.0,movie,United States,English,6.5,6660.0,Comedy,0
+"2,141",2012.0,2014.0,tvMovie,United States,English,5.9,8865.0,"Comedy,Drama,Family",0
+"2,157",2017.0,2019.0,movie,United Kingdom,English,6.7,7106.0,"Biography,Drama,History",0
+"2,159",2016.0,2018.0,movie,India,Hindi,6.8,7634.0,"Action,Crime,Drama",0
+"2,184",2017.0,2019.0,tvMovie,United States,English,7.4,6825.0,"Crime,Documentary,Sport",0
+"2,185",2020.0,2020.0,tvMiniSeries,United States,English,7.7,5918.0,"Crime,Documentary",0
+"2,187",2018.0,2020.0,movie,Italy,Italian,7.3,8202.0,"Biography,Drama",0
+"2,188",2009.0,2011.0,movie,United States,English,5.9,12414.0,"Crime,Drama,Mystery",0
+"2,192",2017.0,2019.0,movie,Canada,English,4.6,11255.0,Horror,0
+"2,196",2018.0,2020.0,movie,Denmark,Danish,7.2,5206.0,Drama,0
+"2,201",2009.0,2016.0,tvSeries,United States,English,7.6,6164.0,Comedy,0
+"2,203",1997.0,1999.0,movie,Japan,Japanese,7.5,12402.0,"Action,Animation,Drama",0
+"2,207",2020.0,2020.0,tvMiniSeries,United States,English,7.4,14325.0,"Crime,Documentary,Sport",0
+"2,216",2015.0,2017.0,movie,United States,English,6.1,13990.0,"Action,Sci-Fi",0
+"2,218",2020.0,2020.0,tvMiniSeries,United States,English,7.9,5693.0,"Documentary,History",0
+"2,219",2018.0,2020.0,movie,Spain,Spanish,5.9,5742.0,"Action,Adventure,Crime",0
+"2,220",2005.0,2014.0,tvSeries,United States,English,5.1,7100.0,"Action,Adventure,Animation",0
+"2,225",2018.0,2020.0,movie,China,Mandarin,6.6,6135.0,"Animation,Drama,Romance",0
+"2,227",2015.0,2017.0,movie,Italy,Italian,7.0,13764.0,"Action,Drama,Sci-Fi",0
+"2,233",2020.0,2022.0,movie,Japan,Japanese,6.5,5154.0,"Action,Animation,Crime",0
+"2,243",2016.0,2018.0,movie,United States,English,5.9,6159.0,"Comedy,Drama",0
+"2,258",2020.0,2022.0,movie,India,Hindi,7.0,5848.0,"Comedy,Drama",0
+"2,261",2006.0,2008.0,movie,Canada,English,6.8,12170.0,"Action,Comedy,Crime",0
+"2,270",2019.0,2021.0,movie,Spain,Spanish,7.2,5248.0,"Action,Drama,History",0
+"2,271",2018.0,2020.0,tvSeries,United Kingdom,English,8.1,7047.0,"Documentary,Sport",0
+"2,300",2019.0,2021.0,short,United Kingdom,English,7.7,9916.0,"Music,Short",0
+"2,304",2016.0,2018.0,movie,France,French,7.4,9117.0,"Crime,Drama",0
+"2,311",2016.0,2018.0,movie,United States,English,7.3,5579.0,"Biography,Crime,Documentary",0
+"2,317",2020.0,2022.0,movie,United States,English,7.6,8369.0,"Crime,Documentary,Sport",0
+"2,328",2020.0,2022.0,movie,Spain,Spanish,6.1,5607.0,"Action,Adventure,Comedy",0
+"2,330",2020.0,2022.0,movie,United States,English,7.3,5195.0,"Documentary,History",0
+"2,339",2017.0,2019.0,movie,United States,English,5.7,7620.0,"Comedy,Crime,Western",0
+"2,360",2006.0,2009.0,tvSeries,Japan,Japanese,7.8,7719.0,"Animation,Comedy,Fantasy",0
+"2,365",2019.0,2021.0,movie,Spain,Spanish,7.2,5627.0,"Comedy,Drama",0
+"2,369",2017.0,2019.0,movie,Japan,Japanese,6.0,7962.0,"Action,Adventure,Animation",0
+"2,378",2017.0,2019.0,short,United States,English,6.5,11004.0,"Comedy,Crime,Drama",0
+"2,389",2015.0,2017.0,short,United States,English,6.9,14722.0,"Adventure,Animation,Comedy",0
+"2,391",2015.0,2017.0,movie,Canada,English,6.9,8184.0,"Biography,Drama,Music",0
+"2,397",2020.0,2022.0,movie,United States,Korean,7.5,5286.0,"Documentary,Music",0
+"2,399",2009.0,2011.0,tvMovie,United Kingdom,English,7.5,6400.0,"Animation,Family",0
+"2,401",2015.0,2017.0,movie,United States,English,5.9,5835.0,"Biography,Drama",0
+"2,414",2017.0,2019.0,movie,Japan,Japanese,6.7,7286.0,"Action,Animation,Drama",0
+"2,415",2020.0,2020.0,tvMiniSeries,United States,English,7.4,6613.0,"Documentary,History",0
+"2,419",2016.0,2018.0,movie,Spain,Spanish,6.9,7376.0,"Biography,Thriller",0
+"2,424",2021.0,2022.0,movie,Turkey,Turkish,6.1,9295.0,"Comedy,Drama",0
+"2,425",2016.0,2016.0,tvMiniSeries,Norway,Norwegian,8.1,5966.0,"Drama,Thriller,War",0
+"2,429",2014.0,2016.0,movie,United States,English,6.5,5413.0,"Biography,Drama,War",0
+"2,430",1955.0,1957.0,movie,United States,English,7.4,6880.0,"Crime,Drama,Film-Noir",0
+"2,431",2011.0,2013.0,movie,Brazil,Portuguese,6.1,6908.0,"Biography,Drama",0
+"2,436",1966.0,1968.0,movie,United States,English,6.5,6059.0,"Action,Adventure,Comedy",0
+"2,439",2017.0,2019.0,movie,Argentina,Spanish,6.2,5472.0,"Crime,Drama,Mystery",0
+"2,447",2013.0,2015.0,tvMovie,United States,English,6.9,11342.0,"Drama,Romance",0
+"2,465",2013.0,2015.0,movie,Argentina,Spanish,6.5,9054.0,"Adventure,Animation,Family",0
+"2,468",2020.0,2022.0,movie,India,Hindi,6.8,5285.0,"Action,Drama,Sport",0
+"2,470",2007.0,2009.0,movie,United States,English,5.8,14212.0,"Action,Crime,Thriller",0
+"2,481",2014.0,2014.0,tvMiniSeries,United States,English,7.4,11205.0,"Biography,Drama",0
+"2,484",1952.0,1954.0,movie,United States,English,7.5,5481.0,"Film-Noir,Thriller",0
+"2,486",2019.0,2021.0,movie,France,French,6.1,6370.0,"Comedy,Drama",0
+"2,496",2014.0,2016.0,movie,Canada,English,7.1,12235.0,"Adventure,Drama,Romance",0
+"2,534",2016.0,2018.0,movie,India,Hindi,7.6,13657.0,"Adventure,Drama,Thriller",0
+"2,537",2015.0,2017.0,movie,United Kingdom,Ukrainian,8.4,13323.0,Documentary,0
+"2,539",2008.0,2010.0,movie,Netherlands,Dutch,7.0,12357.0,"Drama,History,War",0
+"2,540",2010.0,2012.0,movie,United States,English,6.7,12643.0,"Biography,Drama,Romance",0
+"2,551",2015.0,2017.0,movie,United States,English,7.4,11222.0,"Crime,Documentary",0
+"2,553",2019.0,2019.0,tvSeries,United States,English,6.6,9060.0,"Crime,Documentary,Mystery",0
+"2,558",2018.0,2020.0,tvSpecial,Australia,English,8.3,10648.0,"Comedy,Documentary",0
+"2,562",2017.0,2019.0,movie,United States,English,5.7,10162.0,"Comedy,Drama,Romance",0
+"2,571",2017.0,2019.0,movie,Spain,Spanish,6.5,5153.0,"Comedy,Crime,Drama",0
+"2,587",1999.0,2001.0,movie,Japan,Japanese,7.2,12633.0,"Animation,Comedy,Family",0
+"2,593",2014.0,2016.0,movie,Spain,Spanish,6.7,6494.0,"Drama,Horror,Thriller",0
+"2,594",2014.0,2016.0,tvMovie,United States,English,7.2,10444.0,"Adventure,Animation,Comedy",0
+"2,595",2012.0,2014.0,movie,United States,English,4.6,9820.0,"Action,Crime,Drama",0
+"2,638",2015.0,2017.0,movie,India,Hindi,7.2,14242.0,"Comedy,Drama,Romance",0
+"2,655",2015.0,2017.0,tvMovie,United States,English,7.8,9994.0,"Action,Drama,History",0
+"2,682",2016.0,2018.0,movie,Canada,English,6.1,6851.0,"Drama,Mystery,Thriller",0
+"2,705",2016.0,2018.0,movie,United States,English,4.8,7401.0,Horror,0
+"2,706",2010.0,2012.0,movie,United Kingdom,English,5.5,8872.0,"Drama,Thriller",0
+"2,714",2018.0,2020.0,movie,India,Hindi,7.2,7577.0,"Comedy,Romance",0
+"2,717",2017.0,2019.0,short,United States,English,5.6,11799.0,"Adventure,Animation,Comedy",0
+"2,725",1948.0,1950.0,movie,United States,English,7.1,5302.0,"Crime,Film-Noir,Thriller",0
+"2,727",2018.0,2020.0,tvSpecial,United States,English,8.0,6741.0,Comedy,0
+"2,736",2012.0,2014.0,movie,United States,English,6.4,6224.0,Drama,0
+"2,739",2016.0,2018.0,movie,United Kingdom,English,7.2,7791.0,Documentary,0
+"2,758",2019.0,2021.0,movie,United States,English,6.7,6014.0,"Crime,Documentary",0
+"2,773",2018.0,2020.0,movie,United Kingdom,English,7.3,6887.0,"Biography,Documentary,Drama",0
+"2,775",2020.0,2022.0,movie,India,Hindi,4.8,11523.0,"Crime,Drama,Thriller",0
+"2,777",2010.0,2012.0,movie,Japan,Japanese,8.1,6542.0,"Animation,Drama,Family",0
+"2,804",2015.0,2017.0,movie,Turkey,Turkish,7.4,12982.0,"Comedy,Drama",0
+"2,810",2018.0,2020.0,tvSeries,United States,English,8.3,6687.0,"Comedy,News,Talk-Show",0
+"2,811",2014.0,2016.0,movie,United States,English,5.6,8088.0,"Action,Comedy,Drama",0
+"2,813",2011.0,2013.0,movie,United States,English,7.7,11844.0,Documentary,0
+"2,815",2011.0,2013.0,movie,United States,English,5.1,10477.0,"Action,Crime,Thriller",0
+"2,816",2011.0,2013.0,movie,India,Hindi,7.2,8134.0,"Action,Crime,Drama",0
+"2,823",2012.0,2014.0,movie,United States,English,7.5,5948.0,Drama,0
+"2,825",2008.0,2010.0,movie,Germany,German,7.2,13871.0,"Comedy,Drama,Music",0
+"2,831",2014.0,2016.0,movie,United Kingdom,English,8.2,10668.0,"Documentary,War",0
+"2,832",2011.0,2013.0,movie,United States,English,5.7,9236.0,"Comedy,Drama,Romance",0
+"2,834",2016.0,2018.0,movie,Sweden,Swedish,6.3,5508.0,"Adventure,Comedy,Crime",0
+"2,853",2004.0,2006.0,movie,Japan,Japanese,7.8,8594.0,"Adventure,Animation,Comedy",0
+"2,856",2019.0,2019.0,tvMiniSeries,United States,English,7.9,9733.0,Documentary,0
+"2,918",2018.0,2020.0,movie,United States,English,5.3,9405.0,"Drama,Romance",0
+"2,920",2015.0,2017.0,tvSpecial,United States,English,5.5,14469.0,"Comedy,Music,Musical",0
+"2,944",2005.0,2007.0,movie,South Korea,Korean,7.7,6735.0,"Comedy,Drama,War",0
+"2,962",2015.0,2017.0,tvSpecial,United States,English,8.0,7496.0,Comedy,0
+"2,967",2004.0,2006.0,movie,Germany,German,6.2,8151.0,"Comedy,Crime,Mystery",0
+"2,976",2019.0,2021.0,tvSpecial,United States,English,8.2,9268.0,Comedy,0
+"2,989",2017.0,2019.0,movie,United States,English,7.0,11907.0,"Documentary,Music",0
+"3,004",2019.0,2021.0,movie,Brazil,Portuguese,7.2,13655.0,"Documentary,History",0
+"3,037",2014.0,2016.0,movie,United States,English,7.7,11620.0,Documentary,0
+"3,099",2016.0,2018.0,movie,United States,English,7.2,6125.0,"Crime,Documentary",0
+"3,120",2011.0,2013.0,movie,United States,English,7.7,6832.0,"Documentary,Sport",0
+"3,129",2010.0,2012.0,movie,Australia,English,7.5,8539.0,Documentary,0
+"3,133",2015.0,2017.0,movie,United States,English,7.6,12879.0,"Biography,Documentary,Music",0
+"3,181",2019.0,2021.0,movie,United States,English,7.5,6466.0,"Documentary,Music",0
+"3,189",2019.0,2021.0,movie,United States,English,7.1,11723.0,Documentary,0
+"3,201",2010.0,2012.0,movie,Turkey,Turkish,5.8,14702.0,Action,0
+"3,212",2017.0,2019.0,movie,Sweden,English,7.6,6426.0,"Biography,Documentary,Music",0
+"3,232",2012.0,2014.0,movie,South Africa,English,5.8,6777.0,"Adventure,Animation,Comedy",0
+"3,234",2011.0,2013.0,movie,Netherlands,Dutch,6.0,8955.0,"Action,Comedy",0
+"3,260",2015.0,2017.0,movie,United States,English,7.4,5985.0,Documentary,0
+"3,285",2002.0,2004.0,movie,Denmark,English,6.8,7647.0,"Comedy,Drama,Romance",0
+"3,293",2018.0,2020.0,movie,United States,English,5.7,8763.0,"Drama,Fantasy,Romance",0
+"3,299",2016.0,2018.0,movie,United States,English,5.9,9048.0,"Comedy,Documentary",0
+"3,323",2016.0,2018.0,tvSpecial,United States,English,7.6,6025.0,Comedy,0
+"3,344",2020.0,2022.0,movie,United States,English,6.8,5835.0,Documentary,0
+"3,393",2017.0,2019.0,tvSpecial,-,English,8.3,6651.0,Comedy,0
+"3,423",2017.0,2019.0,movie,India,Malayalam,7.3,7280.0,"Action,Crime,Drama",0
+"3,432",2013.0,2015.0,movie,United States,English,7.1,7644.0,"Documentary,Drama,Sport",0
+"3,466",2015.0,2017.0,movie,United States,English,8.1,8816.0,"Biography,Documentary,News",0
+"3,493",2015.0,2017.0,movie,Turkey,Turkish,6.4,9643.0,Comedy,0
+"3,522",2013.0,2015.0,movie,United Kingdom,Arabic,8.1,8733.0,"Documentary,Drama,History",0
+"3,555",2018.0,2020.0,movie,United States,English,6.6,6688.0,Documentary,0
+"3,698",2017.0,2019.0,movie,United States,English,7.3,6943.0,"Biography,Documentary",0
+"3,763",2016.0,2018.0,short,United Kingdom,Arabic,7.5,7263.0,"Documentary,Short,War",0
+"3,764",2018.0,2020.0,short,United States,Hindi,7.4,5543.0,"Documentary,Short",0
+"3,807",2017.0,2019.0,tvSpecial,United States,English,8.1,10976.0,Comedy,0
+"3,823",2017.0,2019.0,tvSpecial,United States,English,7.3,6496.0,Comedy,0
+"3,868",2017.0,2019.0,tvSpecial,United States,English,8.2,10281.0,Comedy,0
+"3,910",2009.0,2011.0,movie,Netherlands,Dutch,6.8,5238.0,"Drama,Romance",0
+"3,969",2008.0,2010.0,short,Japan,Japanese,8.2,10505.0,"Animation,Drama,Family",0
+"3,997",2011.0,2013.0,movie,Turkey,Turkish,6.5,12433.0,"Drama,Romance",0
+"4,012",2013.0,2015.0,movie,United States,English,7.4,7226.0,Documentary,0
+"4,014",2014.0,2016.0,tvSpecial,United States,English,8.3,7223.0,Comedy,0
+"4,028",2012.0,2014.0,tvSpecial,United States,English,8.3,6673.0,Comedy,0
+"4,047",2017.0,2019.0,tvSpecial,United States,English,7.6,9447.0,Comedy,0
+"4,067",2013.0,2015.0,movie,United States,English,6.8,8636.0,"Comedy,Documentary",0
+"4,143",2014.0,2016.0,movie,Turkey,Turkish,6.1,6502.0,"Comedy,Romance",0
+"4,160",2017.0,2019.0,tvSpecial,United States,English,7.9,8525.0,Comedy,0
+"4,267",2014.0,2016.0,movie,United States,English,6.1,5383.0,"Animation,Documentary,History",0
+"4,382",2017.0,2019.0,tvSpecial,United States,English,8.0,10201.0,Comedy,0
+"4,438",2014.0,2016.0,movie,United States,English,6.7,5725.0,Documentary,0
+"4,466",2017.0,2019.0,tvSpecial,United States,English,7.0,5351.0,Comedy,0
+"4,500",2013.0,2015.0,movie,United States,English,6.9,6480.0,Documentary,0
+"4,504",2011.0,2013.0,movie,United States,English,7.6,6834.0,Documentary,0
+"6,466",2020.0,2022.0,tvEpisode,United States,English,8.5,9142.0,Drama,0
+"6,821",2020.0,2022.0,tvEpisode,Germany,German,9.0,11862.0,"Crime,Drama,Mystery",0
+"6,856",2021.0,2022.0,tvEpisode,United States,English,8.1,6635.0,"Animation,Comedy,Fantasy",0
+"7,050",2019.0,2021.0,tvEpisode,United States,English,8.3,9279.0,"Adventure,Animation,Comedy",0
+"7,606",2020.0,2022.0,tvEpisode,Spain,Spanish,7.4,5957.0,"Action,Crime,Mystery",0
+"8,642",2020.0,2022.0,tvEpisode,Egypt,English,8.8,7183.0,"Drama,Fantasy,Horror",0
+"10,076",2013.0,2015.0,tvEpisode,United States,English,8.6,7492.0,Drama,0
+"10,262",2013.0,2015.0,tvEpisode,United Kingdom,English,8.9,6853.0,"Crime,Drama",0
+"10,508",2014.0,2016.0,tvEpisode,United States,English,9.3,12655.0,"Crime,Drama,Thriller",0
+"10,662",2015.0,2017.0,tvEpisode,United States,English,8.5,10762.0,"Action,Crime,Drama",0
+"10,740",2015.0,2017.0,tvEpisode,United States,English,8.6,13557.0,"Crime,Drama",0
+"10,743",2014.0,2016.0,tvEpisode,United Kingdom,English,7.9,7300.0,"Adventure,Drama,Family",0
+"10,930",2015.0,2017.0,tvEpisode,United States,English,7.6,5397.0,"Drama,Mystery,Sci-Fi",0
+"11,171",2015.0,2017.0,tvEpisode,United States,English,8.0,6290.0,"Action,Crime,Drama",0
+"12,208",2017.0,2019.0,tvEpisode,United States,English,7.1,7041.0,"Action,Adventure,Drama",0
+"12,215",2017.0,2019.0,tvEpisode,United States,English,7.8,7130.0,"Crime,Drama,Thriller",0
+"12,343",2017.0,2019.0,tvEpisode,United States,-,8.6,7346.0,"Action,Crime,Drama",0
+"12,467",2017.0,2019.0,tvEpisode,United States,English,8.5,6140.0,"Crime,Drama,Thriller",0
+"12,716",2018.0,2020.0,tvEpisode,United States,English,8.0,5560.0,"Action,Drama,Sci-Fi",0
+"13,872",2018.0,2020.0,tvEpisode,United States,English,8.2,7945.0,"Drama,Horror,Mystery",0
+"15,958",2020.0,2022.0,tvEpisode,United Kingdom,English,8.1,5494.0,"Drama,Horror",0
